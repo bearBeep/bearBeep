@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### Coding status last week ⌨️
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+#### Github stats ⌨️
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bearBeep)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -17,5 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
